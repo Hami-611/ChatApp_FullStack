@@ -35,7 +35,7 @@ This repository contains the code for a Full Stack Chat Application built using 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fullstack-chat-app.git
+   git clone https://github.com/Hami-611/ChatApp_FullStack.git
    ```
 
 2. Create and activate a virtual environment:
