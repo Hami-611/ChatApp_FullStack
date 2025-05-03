@@ -1,14 +1,23 @@
 # Full Stack Chat Application  
 
 ## Overview  
-This project is a Full Stack Chat Application that combines a robust backend built with Django REST Framework (DRF) and a dynamic front-end developed using ReactJS. The application supports real-time communication, secure authentication, and seamless user interaction, making it a comprehensive chat solution.  
+This project is a Full Stack Chat Application that combines a robust backend built with Django REST Framework (DRF) and a dynamic front-end developed using ReactJS. The application supports real-time communication, secure authentication, and seamless user interaction, making it a comprehensive chat solution.   
 
-## Features  
+## 🚀 Features
+
+- 🔒 User registration & login
+- 💬 Real-time one-to-one messaging using WebSockets
+- 🌐 Django Channels for async communication
+- ⚛️ ReactJS frontend with Material UI
+- 🔌 REST API using Django REST Framework
+- 📦 Token-based authentication (JWT or Session)
+- 🎨 Responsive design for mobile & desktop
+  
 - **Backend**  
   - Developed RESTful APIs using **Django REST Framework (DRF)**.  
   - Built a chat server administration API with server filtering, channel management, and related data retrieval.  
   - Integrated real-time chat functionality using **Django Channels** and WebSockets.  
-  - Implemented secure token-based authentication for user registration and login with **djangorestframework-simplejwt**.  
+  - Implemented secure token-based authentication for user registration and login with **djangorestframework-simplejwt**.
 
 - **Frontend**  
   - Designed user-friendly interfaces with **ReactJS**, **React Router**, and **Material-UI**.  
